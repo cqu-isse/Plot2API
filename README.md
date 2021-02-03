@@ -6,7 +6,7 @@ Accepted by SANER2021
 # Note
 Firstly, you should run the EfficientNet successfully. The link is https://github.com/lukemelas/EfficientNet-PyTorch. 
 Then download the datasets. (https://pan.baidu.com/s/16cASGJKdCO1RovJOzcQY7Q, the code is 5230).
-The reusult will be a little different from the paper due to initialization.
+The result will be a little different from the paper due to initialization.
 
 ## Run
 - python>=3.6
