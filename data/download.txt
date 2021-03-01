@@ -1,2 +1,6 @@
-链接：https://pan.baidu.com/s/16cASGJKdCO1RovJOzcQY7Q 
-提取码：5230 
+Link: https://pan.baidu.com/s/16cASGJKdCO1RovJOzcQY7Q 
+Extracted code: 5230 
+
+Python-Plot13 dataset consists of 6350 python-related plot instances in total and involves 13 APIs, namely bar, barh, boxplot, broken barh, errorbar, hist, pie, plot, polar, scatter, stackplot, stem and step. We utilize 5080 samples for training and the rest of 1270 for testing. 
+
+The R-Plot32 dataset contains 9114 images where 7292 for training and 1822 for testing. The R-Plot32 involves 32 graphic APIs, namely bar, bin2d, boxplot, contour, crossbar, curve, density, density 2d, dotplot, errorbar, errorbarh, freqpoly, hex, histogram, jitter, line, linerange, map, path, point, pointrange, polygon, quantile, raster, ribbon, rug, segment, sf, smooth, spoke, step and violin.
