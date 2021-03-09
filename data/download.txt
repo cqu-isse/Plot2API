@@ -5,4 +5,4 @@ The Python-Plot13 dataset consists of 6350 python-related plot instances in tota
 
 The R-Plot32 dataset contains 9114 images where 7292 for training and 1822 for testing. The R-Plot32 involves 32 graphic APIs, namely bar, bin2d, boxplot, contour, crossbar, curve, density, density 2d, dotplot, errorbar, errorbarh, freqpoly, hex, histogram, jitter, line, linerange, map, path, point, pointrange, polygon, quantile, raster, ribbon, rug, segment, sf, smooth, spoke, step and violin.
 
-The R-Plot14 dataset contains 8612 graphics where 6890 for training and 1722 for testing. The RPlot14 dataset involves 14 graphic APIs, namely bar, boxplot, contour, density, hex, histogram, line, map, point, polygon, raster, ribbon, smooth, and violin, which have the same images with R-Plot32.
+The R-Plot14 dataset contains 8612 graphics where 6890 for training and 1722 for testing. The R-Plot14 dataset involves 14 graphic APIs, namely bar, boxplot, contour, density, hex, histogram, line, map, point, polygon, raster, ribbon, smooth, and violin, which have the same images with the R-Plot32 dataset.
