@@ -4,7 +4,10 @@ Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural 
 Accepted by SANER2021
 
 # Dataset
+The data distribution of the Python-Plot13 dataset:
 ![The data distribution of the Python-Plot13 dataset:](https://github.com/cqu-isse/Plot2API/blob/master/data/python.png)
+
+The data distribution of the R-Plot32 dataset:
 ![The data distribution of the R-Plot32 dataset:](https://github.com/cqu-isse/Plot2API/blob/master/data/R.png)
 
 # Note
